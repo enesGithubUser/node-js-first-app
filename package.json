@@ -1,0 +1,23 @@
+{
+  "name": "node-js-first-app",
+  "version": "1.0.0",
+  "description": "Node js ilk projem.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enesGithubUser/node-js-first-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enesGithubUser/node-js-first-app/issues"
+  },
+  "homepage": "https://github.com/enesGithubUser/node-js-first-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
