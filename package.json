@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/enesGithubUser/node-js-first-app#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "knex": "^0.21.2",
+    "pg": "^8.1.0"
   }
 }
